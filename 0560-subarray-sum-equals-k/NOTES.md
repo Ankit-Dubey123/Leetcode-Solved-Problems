@@ -5,6 +5,7 @@ So, we will try to generate the sum of each subarray and if matches withk , then
 Like, this is the most basic thing we can do.
 Time Complexity --> O(n ^ 2) // where n is the size of the array
 Space Complexity --> O(1) // we are not using anything extra from our side
+
 -----------------
 int subarraySum(vector<int>& arr, int k) {
         int n = arr.size(); // taking the size of the array
