@@ -8,7 +8,7 @@ in every row apply binary search , T.C->O(n*logm)
 
 ![image](https://user-images.githubusercontent.com/97017655/204081899-c21991a0-642e-4a87-9240-2bd56fdca838.png)
 
- int i=0;
+        int i=0;
         int j=matrix[0].size()-1;
         while(i<matrix.size() and j>=0){
             if(matrix[i][j]==target){
@@ -25,7 +25,8 @@ in every row apply binary search , T.C->O(n*logm)
         
 --->4th very optimal
 imagine it is like a long array of m*n elements
- int row=matrix.size();
+
+        int row=matrix.size();
         int col=matrix[0].size();
         int start=0;
         int end=row*col-1;
