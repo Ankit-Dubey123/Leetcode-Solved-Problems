@@ -1,10 +1,11 @@
----------1st approach
+--->1st approach
 Traverse all matrix , T.C-> O(m*n)
 
----------2nd Approach
+--->2nd Approach
 in every row apply binary search , T.C->O(n*logm)
 
----------3rd Approach
+--->3rd Approach
+
 ![image](https://user-images.githubusercontent.com/97017655/204081899-c21991a0-642e-4a87-9240-2bd56fdca838.png)
 
  int i=0;
@@ -22,7 +23,7 @@ in every row apply binary search , T.C->O(n*logm)
         }
         return false;
         
------------4th very optimal
+--->4th very optimal
 imagine it is like a long array of m*n elements
  int row=matrix.size();
         int col=matrix[0].size();
