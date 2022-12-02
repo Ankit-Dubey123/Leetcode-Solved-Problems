@@ -1,1 +1,2 @@
-​
+-All the unique characters should be present in 1st and 2nd both strings.
+-The count of the frequencies should be same.
