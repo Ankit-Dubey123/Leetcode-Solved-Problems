@@ -4,7 +4,7 @@ public:
        int min_index;
        long long sum1=0;
        long long sum2=0;
-       int min_diff=INT_MAX;
+       int min_avgdiff=INT_MAX;
        for(int i=0;i<nums.size();i++){
            sum2+=nums[i];
        }
@@ -14,9 +14,9 @@ public:
            int a=sum1/(i+1);
            int b=(i==nums.size()-1)?0:sum2/(nums.size()-i-1);
            
-           if(abs(a-b)<min_diff){
+           if(abs(a-b)<min_avgdiff){
                min_index=i;
-               min_diff=abs(a-b);
+               min_avgdiff=abs(a-b);
            }
        }
        return min_index;
