@@ -35,27 +35,28 @@
  3. Optimal
  (a) Find the length of both linked list and take difference then traverse simultaneously.
 
-      ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        int diff=getdiff(headA,headB);
-        if(diff>0){
+
+        ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+          int diff=getdiff(headA,headB);
+          if(diff>0){
             while(diff--!=0){
                 headA=headA->next;
             }
-        }
-        else{
+          }
+          else{
             while(diff++!=0){
                 headB=headB->next;
             }
-        }
-        while(headA){
+          }
+          while(headA){
             if(headA==headB){
                 return headA;
             }
             headA=headA->next;
             headB=headB->next;
+          }
+          return NULL;
         }
-        return NULL;
-      }
   
    (b) trick
     
