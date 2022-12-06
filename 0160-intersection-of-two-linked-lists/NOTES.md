@@ -70,7 +70,7 @@
         return NULL;
     }
   
-    (b) trick
+   (b) trick
     
         ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         if(headA==NULL or headB==NULL)return NULL;
