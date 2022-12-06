@@ -1,6 +1,6 @@
 1. Brute Force -> O(m*n) -- check all the elements one by one
 
-ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+       ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         ListNode* temp;
         while(headA!=NULL){
             temp=headB;
@@ -13,11 +13,11 @@ ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
             headA=headA->next;
         }
         return 0;
-    }
+       }
     
 2. Hashmap - O(n) + O(m) time, space O(n)
 
-ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+       ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         unordered_map<ListNode*,int> m;
 		while(headA != NULL){
 			m[headA]++;
@@ -30,13 +30,12 @@ ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
 			headB = headB -> next;
 		}
 		return NULL;
-    }
+       }
     
  3. Optimal
-  
- (a) Find the length of both linked list and take difference then traverse simultaneously
-  
-   int getdiff(ListNode* headA,ListNode* headB){
+ (a) Find the length of both linked list and take difference then traverse simultaneously.
+
+    int getdiff(ListNode* headA,ListNode* headB){
         int l1=0;
         int l2=0;
         while(headA){
@@ -71,10 +70,9 @@ ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         return NULL;
     }
   
-  
     (b) trick
     
-          ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         if(headA==NULL or headB==NULL)return NULL;
         ListNode* a=headA;
         ListNode* b=headB;
