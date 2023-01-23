@@ -10,11 +10,12 @@ public:
         for(int i=1;i<=n;i++){
             if(v[i]==0){
                 ans=i;
-                count++;
+                break;
+                // count++;
             }
         }
-        if(count>1)return -1;
-        count=0;
+        // if(count>1)return -1;
+        // count=0;
         for(int i=0;i<trust.size();i++){
             if(trust[i][1]==ans){
                 count++;
