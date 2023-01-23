@@ -6,18 +6,15 @@ public:
             v[trust[i][0]]=trust[i][1];
         }
         int ans=-1;
-        int count=0;
         for(int i=1;i<=n;i++){
             if(v[i]==0){
-                ans=i;
+                ans=i;    // can be 
                 break;
-                // count++;
             }
         }
-        // if(count>1)return -1;
-        // count=0;
+        int count=0;
         for(int i=0;i<trust.size();i++){
-            if(trust[i][1]==ans){
+            if(trust[i][1]==ans){   // now i will check that everybody trusts the town judge
                 count++;
             }
         }
