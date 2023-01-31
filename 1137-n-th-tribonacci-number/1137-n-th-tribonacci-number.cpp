@@ -1,13 +1,13 @@
 class Solution {
 public:
     int tribonacci(int n) {
-        int *a=new int[n+3];
+        int a[3];
         a[0]=0;
         a[1]=1;
         a[2]=1;
         for(int i=3;i<=n;i++){
-            a[i]=a[i-1]+a[i-2]+a[i-3];
+            a[i%3]=a[0]+a[1]+a[2];
         }
-        return a[n];
+        return a[n%3];
     }
 };
