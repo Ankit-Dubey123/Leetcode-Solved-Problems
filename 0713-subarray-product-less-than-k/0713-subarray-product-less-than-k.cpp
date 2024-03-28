@@ -6,11 +6,9 @@ public:
         int l=0, r=0, count=0;
         while(r<nums.size()){
             maxProd*=nums[r];
-            if(maxProd>=k){
-                while(maxProd>=k){
-                    maxProd/=nums[l];
-                    l++;
-                }
+            while(maxProd>=k){
+                maxProd/=nums[l];
+                l++;
             }
             count+=r-l+1;
             r++;
