@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 # Hash Table
 |  |
@@ -12,4 +13,9 @@
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+# Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
