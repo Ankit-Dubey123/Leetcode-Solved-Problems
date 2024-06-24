@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 # Hash Table
 |  |
 | ------- |
@@ -36,3 +37,4 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
