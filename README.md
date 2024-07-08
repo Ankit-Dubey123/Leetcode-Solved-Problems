@@ -40,3 +40,14 @@
 | [0792-binary-search](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
+## Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
+<!---LeetCode Topics End-->
