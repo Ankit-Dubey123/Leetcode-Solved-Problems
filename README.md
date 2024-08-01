@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -123,6 +124,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
