@@ -45,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [1646-kth-missing-positive-number](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -125,10 +126,15 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
