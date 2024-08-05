@@ -137,4 +137,20 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
