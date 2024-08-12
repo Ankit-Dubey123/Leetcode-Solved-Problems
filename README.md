@@ -48,6 +48,7 @@
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [1646-kth-missing-positive-number](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -151,6 +152,7 @@
 | [0200-number-of-islands](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -165,4 +167,5 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
