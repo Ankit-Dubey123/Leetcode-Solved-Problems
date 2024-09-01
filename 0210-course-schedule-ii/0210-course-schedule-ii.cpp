@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-                vector<vector<int>> graph(numCourses);
+        vector<vector<int>> graph(numCourses);
         for (int h = 0; h < prerequisites.size(); h++) {
             graph[prerequisites[h][1]].push_back(prerequisites[h][0]);
         }
