@@ -1,21 +1,46 @@
 class Solution {
 public:
+    int getResult(int i, double result, string s, int sign) {
+        if (s[i] < '0' || s[i] > '9')
+            return result;
+        result = result * 10 + sign * (s[i] - '0');
+
+        if (result >= INT_MAX) {
+            return INT_MAX;
+        }
+        if (result <= INT_MIN) {
+            return INT_MIN;
+        }
+        return getResult(i + 1, result, s, sign);
+    }
+
     int myAtoi(string s) {
-        int result=0;
-        int sign=1;
-        int i=0;
-        while(s[i]==' ')i++;
-        if(s[i]=='-' or s[i]=='+'){
-            sign=1-2*(s[i++]=='-');
+        int result = 0;
+        int sign = 1;
+        int index = 0;
+        int length = s.size();
+
+        if (length == 0)
+            return 0;
+
+        while (index < length && s[index] == ' ') {
+            index++;
         }
-        while(s[i]>='0' and s[i]<='9'){
-            if(result>INT_MAX/10 or (result==INT_MAX/10 and s[i]-'0'>7)){
-                if(sign==1)return INT_MAX;
-                else return INT_MIN;
-            }
-            result=result*10+(s[i++]-'0');
-            
+
+        if (index == length)
+            return 0;
+
+        if (s[index] == '-') {
+            sign = -1;
+            index++;
         }
-        return result*sign;
+        else if(s[index] == '+'){
+            sign = 1;
+            index++;
+        }
+
+        result = getResult(index, result, s, sign);
+
+        return result;
     }
 };
