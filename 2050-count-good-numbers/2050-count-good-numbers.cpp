@@ -1,7 +1,7 @@
 #define mod 1000000007;
 class Solution {
 public:
-    long long power(int x, int n){
+    long long power(long long x, long long n){
         if(n==0){
             return 1;
         }
