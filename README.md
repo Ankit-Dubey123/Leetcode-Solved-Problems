@@ -53,6 +53,7 @@
 | [1036-rotting-oranges](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1073-number-of-enclaves) |
 | [1646-kth-missing-positive-number](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
+| [2107-find-unique-binary-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2107-find-unique-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2107-find-unique-binary-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0205-isomorphic-strings](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [2107-find-unique-binary-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2107-find-unique-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
+| [2107-find-unique-binary-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2107-find-unique-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
