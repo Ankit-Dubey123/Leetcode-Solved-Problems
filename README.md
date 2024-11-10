@@ -91,6 +91,7 @@
 | [0050-powx-n](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
