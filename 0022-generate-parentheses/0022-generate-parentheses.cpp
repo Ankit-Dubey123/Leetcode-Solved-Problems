@@ -1,20 +1,20 @@
 class Solution {
 public:
-    void generate(int open,int closed,int n,string s,vector<string>&ans){
-        if(open==n and closed==n){
-            ans.push_back(s);
+    void generateAll(int open, int close, int n, string str, vector<string>& res){
+        if(open==n and close==n){
+            res.push_back(str);
             return;
         }
         if(open<n){
-            generate(open+1,closed,n,s+'(',ans); // closed will increment only when (open>closed) 
+            generateAll(open+1, close, n, str+'(', res);
         }
-        if(closed<open){
-            generate(open,closed+1,n,s+')',ans);
+        if(close<open){
+            generateAll(open, close+1, n, str+')', res);
         }
     }
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
-        generate(0,0,n,"",ans);
-        return ans;
+        vector<string> res;
+        generateAll(0, 0, n, "", res);
+        return res;
     }
 };
