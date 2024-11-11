@@ -70,6 +70,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0205-isomorphic-strings) |
@@ -153,6 +154,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2107-find-unique-binary-string) |
 ## Depth-First Search
@@ -210,6 +212,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0542-01-matrix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0542-01-matrix) |
 ## Topological Sort
 |  |
