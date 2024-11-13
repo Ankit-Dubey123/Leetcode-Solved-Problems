@@ -84,6 +84,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0210-course-schedule-ii) |
@@ -224,4 +226,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
