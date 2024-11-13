@@ -84,6 +84,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -161,6 +162,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
@@ -229,9 +231,11 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
