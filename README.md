@@ -47,6 +47,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0542-01-matrix) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0542-01-matrix) |
 ## Topological Sort
 |  |
