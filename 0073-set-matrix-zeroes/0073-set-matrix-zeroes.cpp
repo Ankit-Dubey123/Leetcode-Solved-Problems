@@ -1,22 +1,26 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int row = matrix.size();
-        int col = matrix[0].size();
-        vector<int> rowVec(row, -1);
-        vector<int> colVec(col, -1);
-        for(int i = 0; i < row; i++){
-            for(int j = 0; j<col; j++){
+        int n = matrix.size();
+        int m = matrix[0].size();
+
+        vector<int> row(n, 0);
+        vector<int> col(m, 0);
+        for(int i = 0;i<n;i++){
+            for(int j = 0;j<m;j++){
                 if(matrix[i][j]==0){
-                    rowVec[i] = (matrix[i][j]==0) ? 1 : 0;
-                    colVec[j] = (matrix[i][j]==0) ? 1 : 0;
+                    row[i] = 1;
+                    col[j] = 1;
                 }
             }
         }
 
-        for(int i = 0; i < row; i++){
-            for(int j = 0; j < col; j++){
-                if(rowVec[i] == 1 || colVec[j] == 1) matrix[i][j] = 0;
+        // Now mark all 1 presented in row & col index as 0
+        for(int  i = 0;i<n;i++){
+            for(int j = 0;j<m;j++){
+                if(row[i] || col[j]){
+                    matrix[i][j] = 0;
+                }
             }
         }
     }
