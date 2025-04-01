@@ -45,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
@@ -63,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## String
