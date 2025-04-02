@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0542-01-matrix) |
 ## Topological Sort
@@ -252,4 +254,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
