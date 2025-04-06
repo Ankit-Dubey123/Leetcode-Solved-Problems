@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -217,6 +219,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
