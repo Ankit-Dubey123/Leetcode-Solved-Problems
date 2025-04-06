@@ -48,6 +48,7 @@
 | [0031-next-permutation](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
@@ -132,6 +133,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
