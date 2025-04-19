@@ -50,6 +50,7 @@
 | [0053-maximum-subarray](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
@@ -65,6 +66,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 ## Two Pointers
 |  |
@@ -226,6 +228,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0542-01-matrix) |
