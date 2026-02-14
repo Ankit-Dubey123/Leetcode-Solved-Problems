@@ -156,6 +156,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/2050-count-good-numbers) |
 ## Backtracking
