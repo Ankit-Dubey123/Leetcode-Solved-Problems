@@ -20,7 +20,10 @@ var sortColors = function(nums) {
     }
     
     let index = 0;
-    while(count0--){
+    // while(count0--){
+    //     nums[index++] = 0;
+    // }
+    for ( let i = 0; i < count0 ; i++){
         nums[index++] = 0;
     }
     while(count1--){
