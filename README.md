@@ -52,6 +52,7 @@
 | [0056-merge-intervals](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-Dubey123/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
